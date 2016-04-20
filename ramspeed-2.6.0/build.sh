@@ -139,8 +139,8 @@ then echo "WARNING! BUILDING FOR AN UNSUPPORTED OPERATING SYSTEM AND\OR ARCHITEC
      echo " "
 fi
 
-echo "press Enter to continue or Control-C to abort"
-read ANS
+#echo "press Enter to continue or Control-C to abort"
+#read ANS
 
 case $TARGET in
 
